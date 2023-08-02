@@ -63,7 +63,7 @@ return (
             <div className="p-5">
                 <img
                 className="img-fluid rounded-circle"
-                src="https://picsum.photos/id/333/800/800"
+                src="https://picsum.photos/id/767/800/800"
                 alt="..."
                 />
             </div>
